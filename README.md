@@ -19,7 +19,8 @@ Building a diverse skillset block by block. I want to cover all ranges of comput
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 
 # Graphic Design
-[Artstation](https://www.artstation.com/giurlani)
+[Click to be redirected to my Artstation](https://www.artstation.com/giurlani)
+<br>
 <br>
 <img src="https://cdnb.artstation.com/p/assets/images/images/039/848/555/large/nicolas-giurlani-farout-copy.jpg?1627119477" width="600px">
 
