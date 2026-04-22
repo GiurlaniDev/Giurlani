@@ -13,7 +13,7 @@
 
 
 
-## Overview
+# Overview
 I'm learning to code as I go along. Heavy interest in the videogames industry, hopefully one day building a career.
 <br>
 Junior dev for Willard Network, a HL2 roleplay server.
@@ -23,7 +23,7 @@ Interested in contributing to projects where possible.
 Building a diverse skillset block by block. I want to cover all ranges of computer science.
 <br>
 
-## Interests
+# Interests
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
