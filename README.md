@@ -20,5 +20,6 @@ Building a diverse skillset block by block. I want to cover all ranges of comput
 
 # Graphic Design
 [Artstation](https://www.artstation.com/giurlani)
+<br>
 <img src="https://cdnb.artstation.com/p/assets/images/images/039/848/555/large/nicolas-giurlani-farout-copy.jpg?1627119477" width="600px">
 
