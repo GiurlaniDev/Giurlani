@@ -34,7 +34,7 @@ Building a diverse skillset block by block. I want to cover all ranges of comput
 [Redirect to my art portfolio](https://www.artstation.com/giurlani)
 <br>
 <br>
-https://cdna.artstation.com/p/assets/images/images/098/891/552/large/nicolas-giurlani-antcp-copy.jpg?1778352818
+
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="https://cdnb.artstation.com/p/assets/images/images/039/848/555/large/nicolas-giurlani-farout-copy.jpg?1627119477" width="600px"> |  <img src="https://cdnb.artstation.com/p/assets/images/images/098/833/229/large/nicolas-giurlani-dee-copy.jpg?1778173071" width="600px">|<img src="https://cdnb.artstation.com/p/assets/images/images/098/835/631/large/nicolas-giurlani-yasuo-copy.jpg?1778178253" width="600px">|
