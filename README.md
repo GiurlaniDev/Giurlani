@@ -31,8 +31,13 @@ Building a diverse skillset block by block. I want to cover all ranges of comput
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 
 ## Graphic Design
-[Click to be redirected to my Artstation](https://www.artstation.com/giurlani)
+[Redirect to my art portfolio](https://www.artstation.com/giurlani)
 <br>
 <br>
-<img src="https://cdnb.artstation.com/p/assets/images/images/039/848/555/large/nicolas-giurlani-farout-copy.jpg?1627119477" width="600px">
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="https://cdnb.artstation.com/p/assets/images/images/039/848/555/large/nicolas-giurlani-farout-copy.jpg?1627119477" width="600px"> |  <img src="https://cdnb.artstation.com/p/assets/images/images/098/833/229/large/nicolas-giurlani-dee-copy.jpg?1778173071" width="600px">|<img src="https://cdnb.artstation.com/p/assets/images/images/098/835/631/large/nicolas-giurlani-yasuo-copy.jpg?1778178253" width="600px">|
+|<img src="https://cdnb.artstation.com/p/assets/images/images/098/874/215/large/nicolas-giurlani-ota-copy.jpg?1778283442" width="600px"> |  <img src="https://cdnb.artstation.com/p/assets/images/images/098/874/217/large/nicolas-giurlani-ota2-copy.jpg?1778283470" width="600px">|<img src="https://cdna.artstation.com/p/assets/images/images/098/874/702/large/nicolas-giurlani-advisor-copy.jpg?1778285718" width="600px">|
+|<img src="https://cdna.artstation.com/p/assets/images/images/098/875/496/large/nicolas-giurlani-gordon-copy.jpg?1778289433" width="600px">  |  <img src="https://cdna.artstation.com/p/assets/images/images/098/876/484/large/nicolas-giurlani-boid-copy.jpg?1778294773" width="600px">|<img src="https://cdna.artstation.com/p/assets/images/images/098/881/158/large/nicolas-giurlani-rai.jpg?1778319168" width="600px">|
 
